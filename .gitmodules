@@ -1,5 +1,3 @@
 [submodule "module_gems"]
 	path = module_gems
 	url = https://github.com/treexi/module_gem.git
-; 	active = false
-;         ignore = all
